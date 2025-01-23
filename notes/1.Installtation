@@ -1,1 +1,6 @@
-command: npx 
+command: npx create-next-app@latest
+project name: small letters (my-app)
+
+start the server: npm run dev
+build: npm run build
+start: npm start
